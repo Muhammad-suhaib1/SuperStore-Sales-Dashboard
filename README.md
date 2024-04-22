@@ -30,3 +30,9 @@ This Power BI dashboard delivers a detailed exploration of SuperStore sales acro
 
 - **💻 Software**: Microsoft Power BI Desktop (latest version recommended for optimal performance).
 - **📚 Knowledge Base**: A basic to intermediate understanding of Power BI functionalities, DAX, data analysis, and visualization techniques is required to effectively utilize this dashboard
+
+## Preview
+
+![DashBoard](https://github.com/Rex-Underground/Zomato-Dashboard/assets/158386292/1f8811b0-6ee0-4d9e-9646-fa877ae7cece)
+
+## Made By - Muhammad Suhaib
