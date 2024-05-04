@@ -1,5 +1,9 @@
 # SuperStore Sales Analysis Dashboard
 
+## Preview
+
+![DashBoard](https://github.com/Muhammad-suhaib1/SuperStore-Sales-Dashboard/blob/main/Resources/SuperStore%20Sales%20Dashboard.png)
+![DashBoard](https://github.com/Muhammad-suhaib1/SuperStore-Sales-Dashboard/blob/main/Resources/15%20Days%20Forecast.png)
 ## Overview
 This Power BI dashboard delivers a detailed exploration of SuperStore sales across various dimensions including product categories, shipping modes, and regional distribution. It is designed to provide businesses with clear insights into sales performance, profit trends, and customer behaviors. The dynamic visualizations and forecast models are tailored to support strategic planning and optimize operational decisions.
 
@@ -31,9 +35,5 @@ This Power BI dashboard delivers a detailed exploration of SuperStore sales acro
 - **💻 Software**: Microsoft Power BI Desktop (latest version recommended for optimal performance).
 - **📚 Knowledge Base**: A basic to intermediate understanding of Power BI functionalities, DAX, data analysis, and visualization techniques is required to effectively utilize this dashboard
 
-## Preview
-
-![DashBoard](https://github.com/Muhammad-suhaib1/SuperStore-Sales-Dashboard/blob/main/Resources/SuperStore%20Sales%20Dashboard.png)
-![DashBoard](https://github.com/Muhammad-suhaib1/SuperStore-Sales-Dashboard/blob/main/Resources/15%20Days%20Forecast.png)
 
 ## Made By - Muhammad Suhaib
